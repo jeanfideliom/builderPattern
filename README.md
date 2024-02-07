@@ -21,4 +21,4 @@ Implement solution using the Builder Pattern to address the issue.
 ===== Problem Scenario Ends here =====
 
 **UML Diagram**
-![builderPattern](https://github.com/jeanfideliom/builderPattern/assets/63704287/0caa7bf9-7582-4a8a-b6a7-1ce36df7d4c9)
+![builderPattern](https://github.com/jeanfideliom/builderPattern/assets/63704287/bf3366f4-a93d-4890-b0da-8aa3495da615)
